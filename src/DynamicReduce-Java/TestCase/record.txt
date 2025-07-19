@@ -1,0 +1,17 @@
+time: 2.146 seconds
+Test script execution count: 1
+cache take time: 0.0 seconds
+cache compute take time: 0.0 seconds
+cache work count: 0
+coverage reduce take time: 0.0 seconds
+coverage reduce execution count: 0 
+callTrace reduce take time: 0.0 seconds
+callTrace reduce execution count: 0
+Inline reduce take time: 0.0 seconds
+Inline reduce execution count: 0 
+globalDD1 reduce take time: 0.0 seconds
+globalDD1 reduce execution count: 0
+expressionDelta reduce take time: 0.0 seconds
+expressionDelta reduce execution count: 0
+globalDD2 reduce take time: 0.0 seconds
+globalDD2 reduce execution count: 0

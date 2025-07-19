@@ -1,0 +1,3 @@
+compiler/c1
+TestPinnedIntrinsics
+compiler.c1.TestPinnedIntrinsics
