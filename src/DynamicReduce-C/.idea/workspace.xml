@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DynamicReduce-C:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fac609a0-9823-4094-86c8-cf3cfeeea313" name="更改" comment="v1.0">
+      <change afterPath="$PROJECT_DIR$/../DynamicReduce-Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/NestedInterface_ByHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/NestedInterface_ReducedByPerses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/NestedInterface_ReducedByPersesF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/NestedInterface_ReducedByTemp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/NestedInterface_origin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test6661247_v1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test6661247_v2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test7047069/Test7047069.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test7047069/Test7047069_p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test7047069/Test7047069_perses_839.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test7047069/Test7047069_v2_279.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/Test7047069/stdout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/TestPinnedIntrinsics/TestPinnedIntrinsics_v1_48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/record.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/subcommon04/subcommon04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/subcommon04/subcommon04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/subcommon04/subcommon04_p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/subcommon04/subcommon04_v1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/subcommon04/subcommon04_v2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/ExRecord/subcommon04/subcommon04_v3_208.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/MainReducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$ANumberList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$IDummyTable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$IList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$IList2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$INumberList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$IWritableList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$IWritableNumberList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$List1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface$List2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/RealBug/NestedInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test$AxOutputRedirectionHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test$AxOutputRedirectionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test_callTrace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test_coverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test_expressionDelta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test_globalDD1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test_inline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/Test_reduced.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/out0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/record.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp0/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp0/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp0/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp0/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp0/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp1/a/b/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp1/a/b/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp1/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp1/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp1/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp10/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp10/a/b/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp10/a/b/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp10/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp10/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp10/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp11/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp11/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp12/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp12/a/b/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp12/a/b/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp12/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp12/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp12/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp13/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp13/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp14/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp14/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp15/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp15/a/b/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp15/a/b/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp15/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp15/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp15/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp2/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp3/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp3/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp4/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp4/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp5/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp5/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp6/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp6/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp7/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp7/a/b/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp7/a/b/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp7/out1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp7/out2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp7/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp8/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp8/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp9/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/temp9/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/TestCase/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/LICENSE-3RD-PARTY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/THIRDPARTYLICENSEREADME.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btrace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btrace.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btracec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btracec.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btracep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btracep.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btracer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/bin/btracer.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/libs/amd64/libbtrace.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/libs/btrace-agent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/libs/btrace-boot.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/libs/btrace-client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AWTEventTracer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllCalls1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllCalls1Sampled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllCalls2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllCalls2Sampled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllCalls3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllCalls3Sampled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllMethods1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllMethodsLevels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllMethodsSampled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/AllSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ArgArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Classload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/CommandArg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/DTraceInline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/DTraceRefDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Deadlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/FileTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/FileTrackerJfr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/FinalizeTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/HistoOnEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Histogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/HistogramBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/JInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/JMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/JStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/JdbcQueries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/LogTracer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/MemAlerter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Memory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/MultiClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/NewArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/NewComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/OnThrow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ProbeArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ProbeExit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Profiling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Sizeof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/SocketTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/SocketTracker1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/SubtypeTracer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/SysProp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ThreadBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ThreadCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ThreadCounterBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/ThreadStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/Timers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/URLTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/WebServiceTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/btracedefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/classload.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/java.net.socket.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/jthread.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/jurls.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/btrace-v2.2.6-bin/samples/syscalls.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/feature.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/CallTraceDelta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/CallTraceDelta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ConstraintAnalyst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ConstraintAnalyst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/CoverageDelta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/CoverageDelta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/CoverageResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/CoverageResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ExecutionCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ExecutionCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ExecutionSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ExecutionSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ExpressionAnalyst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/ExpressionAnalyst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/FunctionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/FunctionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/InlineAnalyst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/InlineAnalyst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/InlineExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/InlineExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/MainReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/MainReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/MethodDelta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/OutputTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/OutputTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/vt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicReduce-Java/src/main/java/DynamicReduce/vt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicReduce-Java/test1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vWls3CU6QCM3f1xtP03BnGL24g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Acreation/RIAR-Artifact/riar_artifact/src/DynamicReduce-C",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="runtimeReduce.reducer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dynamicReduce.Main" />
+      <module name="RuntimeReduce" />
+      <option name="PROGRAM_PARAMETERS" value="-bd &quot;testcases\test1&quot; -f Test.c -b test.sh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicReduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fac609a0-9823-4094-86c8-cf3cfeeea313" name="更改" comment="" />
+      <created>1744268919953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744268919953</updated>
+    </task>
+    <task id="LOCAL-00001" summary="完成了基础的测试、修改、输出模块">
+      <created>1744645993731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744645993731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成依赖图">
+      <created>1744707349745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744707349745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成覆盖率删除、方法删除">
+      <created>1745301406285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745301406285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成表达式删除、函数内联">
+      <created>1745473973229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745473973229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修复覆盖率、calltrace等">
+      <created>1746338012577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746338012577</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成timeout">
+      <created>1746713577054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746713577054</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v1.0">
+      <created>1748159570765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748159570765</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成了基础的测试、修改、输出模块" />
+    <MESSAGE value="完成依赖图" />
+    <MESSAGE value="完成覆盖率删除、方法删除" />
+    <MESSAGE value="完成表达式删除、函数内联" />
+    <MESSAGE value="修复覆盖率、calltrace等" />
+    <MESSAGE value="完成timeout" />
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
+</project>
